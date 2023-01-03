@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 <h2 align="center">🎈 My Sketchbook 🎈</h2>
-<h4>About only programming, excluded company career!</h4>
+<h4>About only programming, excluded company experience!</h4>
 
 * 2020.01 ~ 2020.08 Hanium Project 'Library in my pocket'(FullStack)
 * 2020.01 ~ Duksung Woman's University Community 'Dwulip' Developer
@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 * 2021.11 ~ 2022.02 Member of Instructor-Learner Collaboration Project, made React.js textbook
 * 2022.02 ~ 2022.08 Leader of App Development Project, 'Dreamable'
 * 2022.08 Won the Award at the Hackathon 'Draw forth Synergy' (Duksung Women's University)
+* 2022.09 ~ Member of Development Club, 'It's Time'
+* 2022.09 ~ Leader of Web Development Project, 'Paperplane'
 
 <br/><br/>
 
